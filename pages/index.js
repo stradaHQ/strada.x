@@ -1,3 +1,5 @@
+import React from "react";
+import ReactDOM from "react-dom";
 import Head from "next/head";
 
 export default function Home() {
@@ -10,7 +12,8 @@ export default function Home() {
       </Head>
       <div className="text-center mx-auto">
         <p className="font-basement font-2xl font-bold tracking-wide">
-          strada | We make cool shit cybernetically
+          <i className="lni lni-angellist lni-32" /> strada | We make cool shit
+          cybernetically
         </p>
       </div>
     </>

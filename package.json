@@ -1,8 +1,8 @@
 {
   "name": "strada",
-  "description": "We make cool shit cybernetically",
   "homepage": "https://github.com/stradaHQ/strada.x",
   "version": "0.0.1",
+  "license": "MIT",
   "private": true,
   "scripts": {
     "dev": "next dev",
